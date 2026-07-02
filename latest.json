@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "build": 109,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.9_update.zip",
-  "sha256": "52bf61e6bd2b59ce5b877b04af8f188a69f6f313ee6174878b861b14aacb3729",
-  "signature": "nF1hCVEr3CPmuRCP+t0qsoJOOWJfOgw3CSzdOLZdGN082xyMhPIVqtchN5S7KKCV+PvJ5y7jW7aJ0X0GjpSNCA==",
-  "notes": "Онлайн-обновления, подпись, backup и откат"
+  "version": "1.0.10",
+  "build": 110,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.10_update.zip",
+  "sha256": "1cd965d3627b192bf072aadeaa1de4e7f42fcf6162d440092fdb7fb46cc5abd2",
+  "signature": "1xzPiYv2RYjZPOGSrQeipwe4DzhsTzAg0OyRbO6ueJaWHWb5hfFOgHzSaT7nw+AednLS7+smjpbCJJflPowjBQ==",
+  "notes": "Проверка обновлений без кэша и понятные ошибки manifest"
 }
