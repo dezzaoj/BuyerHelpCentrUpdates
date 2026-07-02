@@ -1,8 +1,8 @@
 {
-  "version": "1.0.17",
-  "build": 117,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.17_update.zip",
-  "sha256": "94292a08e0527997b40717a58da3a03d3fc8c7be913cd863ef570d05dcda36d3",
-  "signature": "A1ExgZDBLAxEPlQ0B16g1foJXOYad+bmZ/LXx0+vKPpNMn65S/yjiJUtaTIR7YnJF2jVWUy/YA2dZTmfbVD7AQ==",
-  "notes": "Автопроверка обновлений, чистая база и кнопка сворачивания в верхнее меню"
+  "version": "1.0.18",
+  "build": 118,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.18_update.zip",
+  "sha256": "7408e2b19311c678f25df5abbe61fd4eebbce220f1ff2578cd96d963ba546ab3",
+  "signature": "AAgtWLRp0t00JOURXBd6fp4wMriwYKUqHjIs/9Go7xnj/mtEHgrwF/ey5I6Uwx9SBkVVfEcT2Jv2ULN3uGVCCg==",
+  "notes": "Исправлена логика сворачивания в верхнее меню и открытия мини-панели"
 }
