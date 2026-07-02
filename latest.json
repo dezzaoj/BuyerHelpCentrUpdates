@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "build": 108,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.8_update.zip",
-  "sha256": "a5f13251b483da0716981d1cfc7eef8e14945f8d542f5fea4312b540ad2f90b3",
-  "signature": "cFcBvmwRPERd5NaRD6GmPGNPtq5/T2UtkK4JdOJeMzkvFddMoRxeh+PXrUDGEQXIhYinw1+9/GS9DqZNwx1UBA==",
+  "version": "1.0.9",
+  "build": 109,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.9_update.zip",
+  "sha256": "52bf61e6bd2b59ce5b877b04af8f188a69f6f313ee6174878b861b14aacb3729",
+  "signature": "nF1hCVEr3CPmuRCP+t0qsoJOOWJfOgw3CSzdOLZdGN082xyMhPIVqtchN5S7KKCV+PvJ5y7jW7aJ0X0GjpSNCA==",
   "notes": "Онлайн-обновления, подпись, backup и откат"
 }
