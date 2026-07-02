@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "build": 110,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.10_update.zip",
-  "sha256": "1cd965d3627b192bf072aadeaa1de4e7f42fcf6162d440092fdb7fb46cc5abd2",
-  "signature": "1xzPiYv2RYjZPOGSrQeipwe4DzhsTzAg0OyRbO6ueJaWHWb5hfFOgHzSaT7nw+AednLS7+smjpbCJJflPowjBQ==",
-  "notes": "Проверка обновлений без кэша и понятные ошибки manifest"
+  "version": "1.0.11",
+  "build": 111,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.11_update.zip",
+  "sha256": "562de09fbf978bb28ab329f29ab5e42d0f98880f0eba8474ea272e88332b9990",
+  "signature": "xVAN4EdkjRODJMzz7iKrYp8dBsdWCKoTqUMF7yCAkxWnBLeaOQKFB5tFABqWKjiwseQzty/muebWF3+1nNVbBw==",
+  "notes": "Окна не дублируются, GEO выбирается списком, список доменов прокручивается"
 }
