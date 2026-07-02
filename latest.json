@@ -1,8 +1,8 @@
 {
-  "version": "1.0.16",
-  "build": 116,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.16_update.zip",
-  "sha256": "986ccf1bd8e9d2d9ecdb4a3b730649d57d3346148118098ec326665e7d1c1a24",
-  "signature": "o8Akv7DYIg8t4HbEmx2YtH0D9VlukptW+dlL41kY6MiNXt5VSRw4IM67OGM5Od8PK1+ZRVFFGwpL915BNaxdDQ==",
-  "notes": "Крестик закрывает только окно, приложение остаётся доступным для повторного открытия"
+  "version": "1.0.17",
+  "build": 117,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.17_update.zip",
+  "sha256": "94292a08e0527997b40717a58da3a03d3fc8c7be913cd863ef570d05dcda36d3",
+  "signature": "A1ExgZDBLAxEPlQ0B16g1foJXOYad+bmZ/LXx0+vKPpNMn65S/yjiJUtaTIR7YnJF2jVWUy/YA2dZTmfbVD7AQ==",
+  "notes": "Автопроверка обновлений, чистая база и кнопка сворачивания в верхнее меню"
 }
