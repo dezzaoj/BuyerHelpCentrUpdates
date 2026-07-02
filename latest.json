@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "build": 111,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.11_update.zip",
-  "sha256": "562de09fbf978bb28ab329f29ab5e42d0f98880f0eba8474ea272e88332b9990",
-  "signature": "xVAN4EdkjRODJMzz7iKrYp8dBsdWCKoTqUMF7yCAkxWnBLeaOQKFB5tFABqWKjiwseQzty/muebWF3+1nNVbBw==",
-  "notes": "Окна не дублируются, GEO выбирается списком, список доменов прокручивается"
+  "version": "1.0.12",
+  "build": 112,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.12_update.zip",
+  "sha256": "4d0838dc61694f8c2d553c08e7b18821cbf15664ced867092dbbc4d032201f72",
+  "signature": "oheJs1mpeIwIbG0/GvY3P7/rye4yVhLKtimYVVwP4VF9k5j77Ic5KZ84NQnvnAOfDRT4cLdbkwwaQLRJw5HIBA==",
+  "notes": "Европейский справочник стран и выбор GEO домена кнопками"
 }
