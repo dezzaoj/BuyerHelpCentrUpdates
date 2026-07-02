@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "build": 114,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.14_update.zip",
-  "sha256": "1bc182216de887eeec66ae55870504dd672f95fc5d2b20b8690a0b942de2687f",
-  "signature": "YQ+hR4ExAO4ZbHZvKIl+XqrqDrvc6jR42C9YxJUxWdT6F2l3Ud5XcuZpM24NXwXEalz6OeurWe7Lhzg6HyQ3Bg==",
-  "notes": "Надёжное открытие окна после закрытия и работа через строку меню"
+  "version": "1.0.15",
+  "build": 115,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.15_update.zip",
+  "sha256": "e3c5c8c4931c55b2d5fcb029bfd9fc56926ab856abf6cbeb68cb69aa5e7a554f",
+  "signature": "2O28BnhE01Rgm37eX8X9CCG5gRl2F5l8PW4sT9VRG/yruJJD+R4AnoXPp1NF+sMVsO7nw5Ks0qhQrD57bWABDQ==",
+  "notes": "Окно открывается при запуске и повторном открытии приложения"
 }
