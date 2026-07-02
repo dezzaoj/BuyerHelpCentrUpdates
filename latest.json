@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
-  "build": 115,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.15_update.zip",
-  "sha256": "e3c5c8c4931c55b2d5fcb029bfd9fc56926ab856abf6cbeb68cb69aa5e7a554f",
-  "signature": "2O28BnhE01Rgm37eX8X9CCG5gRl2F5l8PW4sT9VRG/yruJJD+R4AnoXPp1NF+sMVsO7nw5Ks0qhQrD57bWABDQ==",
-  "notes": "Окно открывается при запуске и повторном открытии приложения"
+  "version": "1.0.16",
+  "build": 116,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.16_update.zip",
+  "sha256": "986ccf1bd8e9d2d9ecdb4a3b730649d57d3346148118098ec326665e7d1c1a24",
+  "signature": "o8Akv7DYIg8t4HbEmx2YtH0D9VlukptW+dlL41kY6MiNXt5VSRw4IM67OGM5Od8PK1+ZRVFFGwpL915BNaxdDQ==",
+  "notes": "Крестик закрывает только окно, приложение остаётся доступным для повторного открытия"
 }
