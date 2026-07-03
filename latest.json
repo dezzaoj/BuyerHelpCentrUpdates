@@ -1,8 +1,8 @@
 {
-  "version": "1.0.26",
-  "build": 126,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.26_update.zip",
-  "sha256": "24c49001905d810b1100714f339104ee8f55066b71d46d25b2dda9a3247a16ff",
-  "signature": "iPHn2/3Gz0xz4ZUgVqXg4nhNASKk7VFKO9iHX5sMveH+jmrsqQ3toSFF8zMMh2pbiwmsc56DbgcQWM0LgsgoBg==",
-  "notes": "Минибар показывает semitransient popover без принудительной активации приложения"
+  "version": "1.0.27",
+  "build": 127,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.27_update.zip",
+  "sha256": "345f6688387c07a30fe3ed66198a8dbbca14184acdf7a94cff47e5608e1846af",
+  "signature": "fwDWyxx23ZBk8Z3tTAMbvxUwQJRP1EdamkZMXukSWFdO5LNONcrBCShw4ay/TPklVjjfGT8pA6HtoDFq1SBmDQ==",
+  "notes": "Минибар переведен на системное NSMenu, добавлена постоянная версия и улучшена проверка обновлений"
 }
