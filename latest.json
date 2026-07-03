@@ -1,8 +1,8 @@
 {
-  "version": "2.0.10",
-  "build": 210,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.10_update.zip",
-  "sha256": "49b070faad2e45007879aef8f24f31455f7dc0e4986c307e032fdf48e5cc46f1",
-  "signature": "1OBYq7fIJfDve0VXREpVoUBUmNo9plyGBwig8oEAs+2SQ9xq4wK40RNwyym5D8dGYd0S2J8lKlVP1UuCaw5lDA==",
-  "notes": "Полная база GEO по регионам, спойлеры стран в настройках и доменах, избранные GEO"
+  "version": "2.0.11",
+  "build": 211,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.11_update.zip",
+  "sha256": "c312b19f9a411500e21d0a4f96639a2d4a5d1c42688d288a49c1156f4a5ea45f",
+  "signature": "lRbSosMlg3SVzXQvKqqoSNBMVgHcvNB4miLYGPLsFo6DWtJq/kLr4xlNdcoWxVxaE2SKnvGsuqIk0Tthu2wjDA==",
+  "notes": "Исключения GEO/регионов, системные цвета macOS и цветные аватарки интерфейса"
 }
