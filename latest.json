@@ -1,8 +1,8 @@
 {
-  "version": "1.0.20",
-  "build": 120,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.20_update.zip",
-  "sha256": "052dfca6d7be130ada2caf23a41bc1eeb7ba4c245e9c738e3a3b4cdf6bf2eecc",
-  "signature": "DeAT83C0K9U71hrh3t669CaB3kMxtQbvKRB6syEQVm7y+i06Yy7ATLx2L33WFrwNDGvWfiMyg6C/hciF6SyDAQ==",
-  "notes": "Минибар получает видимую AppKit-иконку сразу при запуске"
+  "version": "1.0.21",
+  "build": 121,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.21_update.zip",
+  "sha256": "34ef757fa45d14fd82b304b9e1c1b8ffd7885b4e0b38cb2bfa9a29497057c7a3",
+  "signature": "WWwkrkkf5l5FWRt3QRIFAMGVwfJ2s+QBoa3WxeN/Jgf3BelcKpjCOiHwJt9HI43z86KalXbq2Wnvu3LJgYvGAQ==",
+  "notes": "Минибар создаётся после запуска приложения и не переводит приложение в невидимый режим"
 }
