@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22",
-  "build": 122,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.22_update.zip",
-  "sha256": "b0462e733d91ab33af3aa9d8f9f81a67a3e1e6828a33014d9abaa3e0a0c0b84b",
-  "signature": "Y4LP21iqXgtGg18TAwtmpKILSge4nYR1yFz/2SzhcVT/l8bZwhfiSvGFfR1eYap8qoeK5J2BDdFS4YupmTIfCw==",
-  "notes": "Минибар переписан на системный MenuBarExtra и больше не зависит от ручного AppKit status item"
+  "version": "1.0.23",
+  "build": 123,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.23_update.zip",
+  "sha256": "4dca2b6b88c7db92f658e0d6407d0a3b5296c0d9984169ee43109d69ea5aed9c",
+  "signature": "e1DKTvRGrc22jAKzMOisVqPrR+a64xv6cUKhYbAdUHcNhzWHjtC0JX+5gGuN8lf7YcnKSGmP/+ooj1dprmtrCA==",
+  "notes": "Убран старый AppKit-минибар и добавлена защита от запуска второй копии приложения"
 }
