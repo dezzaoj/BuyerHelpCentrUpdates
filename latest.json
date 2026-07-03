@@ -1,8 +1,8 @@
 {
-  "version": "2.0.7",
-  "build": 207,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.7_update.zip",
-  "sha256": "3a83e5eabeee6d0e901c84aa6d17b9cfc4cf6904ee0ce781f035a95bb16d7c9b",
-  "signature": "vHY+x8m0aZY/xCWNa3NtZZ/8CB7v5ukJO0fHjPtJeQ2zdpX63SE0x4jfOpNpKZILpZ6wbdIh0zHd3Zm6q2jNDA==",
-  "notes": "Чистый онлайн-апдейтер GitHub: проверка, установка, подпись, backup и откат без изменения базы"
+  "version": "2.0.8",
+  "build": 208,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.8_update.zip",
+  "sha256": "f47e02ae7682f592f387b281de72e7e7fe6cdf59bc96dc0b39795840fc261c67",
+  "signature": "rTz4Y709a9Fp270AzJaV7py7ylh7SLt9zMEruPAKnuCtznMANQHGRiWZ9XTHQg3WMFNMHcwS7UieUdNRtphMCg==",
+  "notes": "Настройки стран свернуты под спойлер, апдейтер GitHub сохранен"
 }
