@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
-  "build": 123,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.23_update.zip",
-  "sha256": "4dca2b6b88c7db92f658e0d6407d0a3b5296c0d9984169ee43109d69ea5aed9c",
-  "signature": "e1DKTvRGrc22jAKzMOisVqPrR+a64xv6cUKhYbAdUHcNhzWHjtC0JX+5gGuN8lf7YcnKSGmP/+ooj1dprmtrCA==",
-  "notes": "Убран старый AppKit-минибар и добавлена защита от запуска второй копии приложения"
+  "version": "1.0.24",
+  "build": 124,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.24_update.zip",
+  "sha256": "3a0bfd892598ab980e372680262eb8895c6e8648fc02b121b131e737bd22ac8c",
+  "signature": "+P5E8xqkHJ2ATNbsY/BxWmz5gNoLa7155voOJqPnvv7c0xS2pz69iGi7akzJ0sdZui54CLM+mzi1tnyozXRTCg==",
+  "notes": "Минибар переписан на единственный AppKit status item без SwiftUI MenuBarExtra"
 }
