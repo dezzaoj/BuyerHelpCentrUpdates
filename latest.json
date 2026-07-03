@@ -1,8 +1,8 @@
 {
-  "version": "1.0.21",
-  "build": 121,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.21_update.zip",
-  "sha256": "34ef757fa45d14fd82b304b9e1c1b8ffd7885b4e0b38cb2bfa9a29497057c7a3",
-  "signature": "WWwkrkkf5l5FWRt3QRIFAMGVwfJ2s+QBoa3WxeN/Jgf3BelcKpjCOiHwJt9HI43z86KalXbq2Wnvu3LJgYvGAQ==",
-  "notes": "Минибар создаётся после запуска приложения и не переводит приложение в невидимый режим"
+  "version": "1.0.22",
+  "build": 122,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.22_update.zip",
+  "sha256": "b0462e733d91ab33af3aa9d8f9f81a67a3e1e6828a33014d9abaa3e0a0c0b84b",
+  "signature": "Y4LP21iqXgtGg18TAwtmpKILSge4nYR1yFz/2SzhcVT/l8bZwhfiSvGFfR1eYap8qoeK5J2BDdFS4YupmTIfCw==",
+  "notes": "Минибар переписан на системный MenuBarExtra и больше не зависит от ручного AppKit status item"
 }
