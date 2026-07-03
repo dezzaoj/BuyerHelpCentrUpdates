@@ -1,8 +1,8 @@
 {
-  "version": "1.0.18",
-  "build": 118,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.18_update.zip",
-  "sha256": "7408e2b19311c678f25df5abbe61fd4eebbce220f1ff2578cd96d963ba546ab3",
-  "signature": "AAgtWLRp0t00JOURXBd6fp4wMriwYKUqHjIs/9Go7xnj/mtEHgrwF/ey5I6Uwx9SBkVVfEcT2Jv2ULN3uGVCCg==",
-  "notes": "Исправлена логика сворачивания в верхнее меню и открытия мини-панели"
+  "version": "1.0.19",
+  "build": 119,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.19_update.zip",
+  "sha256": "5ba6aefff231dc97809ab2f6eb850d27ab59c0bb4972d7414b44019cfca17ad5",
+  "signature": "wR3g3RWtVUuZ7dClrUhjEESrZQ4Fb5uR8HPp1Ebqmqivn5alIKNAlsbfNL3imE8Zb+UqyaISyO7ek7dDun6lDA==",
+  "notes": "Минибар переведён на стабильную AppKit-иконку в строке меню"
 }
