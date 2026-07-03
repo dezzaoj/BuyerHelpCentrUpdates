@@ -1,8 +1,8 @@
 {
-  "version": "1.0.27",
-  "build": 127,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.27_update.zip",
-  "sha256": "345f6688387c07a30fe3ed66198a8dbbca14184acdf7a94cff47e5608e1846af",
-  "signature": "fwDWyxx23ZBk8Z3tTAMbvxUwQJRP1EdamkZMXukSWFdO5LNONcrBCShw4ay/TPklVjjfGT8pA6HtoDFq1SBmDQ==",
-  "notes": "Минибар переведен на системное NSMenu, добавлена постоянная версия и улучшена проверка обновлений"
+  "version": "2.0.7",
+  "build": 207,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.7_update.zip",
+  "sha256": "3a83e5eabeee6d0e901c84aa6d17b9cfc4cf6904ee0ce781f035a95bb16d7c9b",
+  "signature": "vHY+x8m0aZY/xCWNa3NtZZ/8CB7v5ukJO0fHjPtJeQ2zdpX63SE0x4jfOpNpKZILpZ6wbdIh0zHd3Zm6q2jNDA==",
+  "notes": "Чистый онлайн-апдейтер GitHub: проверка, установка, подпись, backup и откат без изменения базы"
 }
