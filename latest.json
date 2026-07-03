@@ -1,8 +1,8 @@
 {
-  "version": "1.0.24",
-  "build": 124,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.24_update.zip",
-  "sha256": "3a0bfd892598ab980e372680262eb8895c6e8648fc02b121b131e737bd22ac8c",
-  "signature": "+P5E8xqkHJ2ATNbsY/BxWmz5gNoLa7155voOJqPnvv7c0xS2pz69iGi7akzJ0sdZui54CLM+mzi1tnyozXRTCg==",
-  "notes": "Минибар переписан на единственный AppKit status item без SwiftUI MenuBarExtra"
+  "version": "1.0.26",
+  "build": 126,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_1.0.26_update.zip",
+  "sha256": "24c49001905d810b1100714f339104ee8f55066b71d46d25b2dda9a3247a16ff",
+  "signature": "iPHn2/3Gz0xz4ZUgVqXg4nhNASKk7VFKO9iHX5sMveH+jmrsqQ3toSFF8zMMh2pbiwmsc56DbgcQWM0LgsgoBg==",
+  "notes": "Минибар показывает semitransient popover без принудительной активации приложения"
 }
