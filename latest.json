@@ -1,8 +1,8 @@
 {
-  "version": "2.0.9",
-  "build": 209,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.9_update.zip",
-  "sha256": "fdf8d50672918af4375aedd2f6b556973cb4526ade417a27cb530dfd8af0e034",
-  "signature": "z/hqOFUsAmYffYroVRL5IECymWLgwMvUkafe/rHyNL+uAz2UGViRrvm86xWpTML2HgAhV014Ore7cXVDaHH7Dg==",
-  "notes": "Автоперезапуск после онлайн-обновления сделан через отдельный отцепленный процесс"
+  "version": "2.0.10",
+  "build": 210,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.10_update.zip",
+  "sha256": "49b070faad2e45007879aef8f24f31455f7dc0e4986c307e032fdf48e5cc46f1",
+  "signature": "1OBYq7fIJfDve0VXREpVoUBUmNo9plyGBwig8oEAs+2SQ9xq4wK40RNwyym5D8dGYd0S2J8lKlVP1UuCaw5lDA==",
+  "notes": "Полная база GEO по регионам, спойлеры стран в настройках и доменах, избранные GEO"
 }
