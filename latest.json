@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
-  "build": 2130,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.3_update.zip",
-  "sha256": "b06c2ecebf0840d97ef621fe5bf6a321d63066dc0b8c87ef67f0e7bcf2b5a729",
-  "signature": "AZQ2guy+xOrOGUOsyWRutZq0MckVoT5sSAr5f0g5u8lR4CYCUrdW9s1aOjh207AF8x8n6FsyXpW37xD7QBS7Cg==",
-  "notes": "Исправлены затемнение Liquid Glass без фокуса, верхний отступ минибара и применение светлой темы"
+  "version": "2.1.4",
+  "build": 2140,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.4_update.zip",
+  "sha256": "5efd6d5735298fe1030dc924b693af372adcf824ee21ccc21cd0e4deb08b68f2",
+  "signature": "BGCIo4ioAUXpcR1Xb7OIKMD0B3xS3JuzpT7jN0NLI66oPA0DmQ3q92us53YdwAGD6jhUNTeU2GtumoXh+ZV4Cg==",
+  "notes": "Исправлено переключение темы, системная иконка меню и видимость Liquid Glass на светлой теме"
 }
