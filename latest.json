@@ -1,8 +1,8 @@
 {
-  "version": "2.1.6",
-  "build": 2160,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.6_update.zip",
-  "sha256": "aeb7a0f77d1fd749b07c64fccf6a3e31e584be0dca65f684b30d48713eae1133",
-  "signature": "F505oERShywv2smGfm2Byt4RqoI1bq/qG5zS+H2fQuEhMj/OOP3r1cnRfGxHEGrQ24YCQJPxD4pR5/6RBUZACw==",
-  "notes": "Подтверждение отката, акцентные кнопки минибара и защита онлайн-обновлений от зависаний"
+  "version": "2.1.7",
+  "build": 2170,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.7_update.zip",
+  "sha256": "d537de7b312a81a5885cb40a593f958ec5f404a7ec42a650003e57f1bd9be51b",
+  "signature": "ELNKtcxJJcjcWcZbIRFmn/ZqSTblyE33nhLPEejOvIHnHDca1H7j5FuZytBLeENfmM0Iv2VIjDNB5QjxGp2BAA==",
+  "notes": "Стабилизация данных, защиты от дублей, безопасный откат и атомарная установка обновлений"
 }
