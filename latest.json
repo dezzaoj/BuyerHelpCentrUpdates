@@ -1,8 +1,8 @@
 {
-  "version": "2.0.15",
-  "build": 215,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.15_update.zip",
-  "sha256": "7efb9e7a9ceaeb0a6d02072c58e2f5921db36518a51f6da13bba898569142013",
-  "signature": "TmByPJrX/WZG6lmMHBtBivDhSgIBJXN0+o/IeDQddKap0ztRjp9b1glcFJrp+XtRYBYrw8TEbxNgK9La9umABQ==",
-  "notes": "Минибар: добавлен автономный ROI-калькулятор с авто-выделением чисел"
+  "version": "2.0.16",
+  "build": 216,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.16_update.zip",
+  "sha256": "ed37319f4fbd37000bb932cfefdb6dd79eb26f60838de0f2b282cd1398961d71",
+  "signature": "vh5P1Mg2lW+PI+7Vhf/XLU3B+W445NPKccmxSz2GQuXYnxPv8wj++hZrh6XEb7QS1yS7xcy7Bmfeky1bB4TQBQ==",
+  "notes": "ROI: авто-курс EUR, увеличенная панель и исправленный скролл"
 }
