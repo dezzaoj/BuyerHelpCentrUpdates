@@ -1,8 +1,8 @@
 {
-  "version": "2.0.14",
-  "build": 214,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.14_update.zip",
-  "sha256": "239a843471b7c47b3f6916f8debcbf47f1b6cc61a5825c7d1302f47fa62ed0b4",
-  "signature": "7PgO0vlqoVwy2HeSnSaSESz9ULWNCjhjrWtViadVbNCQJYm/JiRmOZxVHvJdk2Y2zGeP5aWNpJCiyAahGHowAw==",
-  "notes": "Финальный HFS+ DMG с сохраненной раскладкой Finder и крупными иконками"
+  "version": "2.0.15",
+  "build": 215,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.15_update.zip",
+  "sha256": "7efb9e7a9ceaeb0a6d02072c58e2f5921db36518a51f6da13bba898569142013",
+  "signature": "TmByPJrX/WZG6lmMHBtBivDhSgIBJXN0+o/IeDQddKap0ztRjp9b1glcFJrp+XtRYBYrw8TEbxNgK9La9umABQ==",
+  "notes": "Минибар: добавлен автономный ROI-калькулятор с авто-выделением чисел"
 }
