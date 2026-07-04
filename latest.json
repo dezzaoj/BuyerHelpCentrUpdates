@@ -1,8 +1,8 @@
 {
-  "version": "2.1.4",
-  "build": 2140,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.4_update.zip",
-  "sha256": "5efd6d5735298fe1030dc924b693af372adcf824ee21ccc21cd0e4deb08b68f2",
-  "signature": "BGCIo4ioAUXpcR1Xb7OIKMD0B3xS3JuzpT7jN0NLI66oPA0DmQ3q92us53YdwAGD6jhUNTeU2GtumoXh+ZV4Cg==",
-  "notes": "Исправлено переключение темы, системная иконка меню и видимость Liquid Glass на светлой теме"
+  "version": "2.1.5",
+  "build": 2150,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.5_update.zip",
+  "sha256": "444b1128abb6334af05909ce9741643e3698fb48eff781449baadbf67fc70af1",
+  "signature": "TjBKqiU4ShfI3tyrgZQGue6mlD23c5fb/qaN5+WtMxAk/wXYs/XIPcMabQbQrvCWuOcrtGCR/JUepj3tRVFyDQ==",
+  "notes": "Исправлены sub1/sub2, добавлены предупреждения баланса и тумблер Liquid Glass"
 }
