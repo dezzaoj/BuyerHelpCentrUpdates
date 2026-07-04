@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "build": 2110,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.1_update.zip",
-  "sha256": "ac39db6b56ec06fa28c9a4205608b6419400c7f1a6ae5b009c577756467242d6",
-  "signature": "3ySqJwggprbYJsf+tioVL6fmVIxGEqbl6gBOlCaIIPEJhcPXFNUvWriD/KZTGLscVy6bqnFTHTVR+W3HjL0zAQ==",
-  "notes": "Настоящий Liquid Glass для macOS 26+, старая имитация стекла удалена"
+  "version": "2.1.2",
+  "build": 2120,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.2_update.zip",
+  "sha256": "21bed16a623a64a3072d4192ac26a8044a17a312afc1d6c41932a0ae596fb0c0",
+  "signature": "meF+AXYOO4X+eg0KYopHAVsLr2mPWl6dcw27YTdNNj6Ezx3F5pjQA1siZri2+UEJlXvOZrVizDPoZ7lFo8d2Dg==",
+  "notes": "Liquid Glass расширен на приложение, светлая тема исправлена, очистка базы удаляет метку байера"
 }
