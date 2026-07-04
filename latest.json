@@ -1,8 +1,8 @@
 {
-  "version": "2.0.17",
-  "build": 217,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.17_update.zip",
-  "sha256": "f8192abce74c5343a55c9d9f828bf609e9124bda7b44d01e2471acef0df141a5",
-  "signature": "mOnIuk04bQ+00EVJ2TyL1Z2H4keZ7LtxzSIuzXZZNV6XWfD1pYsBohaF8APvbxJL1beS9p8wzEKJIigeZitWBw==",
-  "notes": "Минибар: Brand Name в ссылке и уведомление об обновлении"
+  "version": "2.0.18",
+  "build": 218,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.0.18_update.zip",
+  "sha256": "434a345ef5bb606b85496f8aedf06f4b92336489f53ea4da1f32aa103e9b28d0",
+  "signature": "jG/A7uoPwSYkS+4Sbr20LT+QGNZZQ6eGOWqFB26sNBJwNvE+GpJ91l4pGTN5tq9upnCQZQBNx66SaLoqP1r7BA==",
+  "notes": "GEO presets/search, clean reset modes, explicit mini-bar selection, empty buyer mark by default"
 }
