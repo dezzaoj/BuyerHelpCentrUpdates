@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
-  "build": 2202,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.2_update.zip",
-  "sha256": "d271644251c6375f8fb8eef572fa4e0e2b8db15b362818313e8740f34bd32d05",
-  "signature": "FQ29OksIinHu5izqsb2VAqKV9OngdEJb8XZd9iG3cZePZCmkj6APeYNwyTJ79vlfRKLKGxggHT0n3WBS7arCAQ==",
-  "notes": "QoL-апдейт: пополнения кабинетов с отдельной историей и откатом, добавление уже использованных кабинетов, обновлённая инструкция и стабильнее поведение Dock"
+  "version": "2.2.3",
+  "build": 2203,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.3_update.zip",
+  "sha256": "70112fe617a39e815cc84623e197735f62be7d68283d3aff1866c6194ea876f7",
+  "signature": "TuuE9GdsAN3nDTsSX1gqB6awgpJpv/H0eU2Q/+UhpDW7i/ckkSEdHkw5dQhKaJgCHX7XL/vC3jtpoHJ1VkYECA==",
+  "notes": "Срочный фикс: старые базы без истории пополнений снова открываются корректно. Плюс пополнения кабинетов, использованные кабинеты и исправленный формат ссылок."
 }
