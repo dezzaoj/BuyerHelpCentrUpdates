@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7",
-  "build": 2170,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.1.7_update.zip",
-  "sha256": "d537de7b312a81a5885cb40a593f958ec5f404a7ec42a650003e57f1bd9be51b",
-  "signature": "ELNKtcxJJcjcWcZbIRFmn/ZqSTblyE33nhLPEejOvIHnHDca1H7j5FuZytBLeENfmM0Iv2VIjDNB5QjxGp2BAA==",
-  "notes": "Стабилизация данных, защиты от дублей, безопасный откат и атомарная установка обновлений"
+  "version": "2.2.0",
+  "build": 2200,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.0_update.zip",
+  "sha256": "fdc8de89d35eda7bb66165664d684f2ae535e730b7cdca46e108f94f8467bab1",
+  "signature": "e0ozdqDIf9hchUDODl3wn2+uiti7ox4vPiN5zdgj+9lvkXVKpjXCwOfpeqjKDLFhPIRlko9NKiI1DY/0bK6EAA==",
+  "notes": "QoL-апдейт: добавление уже использованных кабинетов с общим cap, общим spend и дневным spend, обновлённая инструкция, улучшенное DMG-окно"
 }
