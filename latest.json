@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
-  "build": 2204,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.4_update.zip",
-  "sha256": "141f949e5469243102d04a63beba73ba29376c8eed51bbe9b5590744078361ac",
-  "signature": "wYNBb4CgYV5ZlYS5o6wL3gWiOZa4OqoH2w8kHOZRayP2w6qnFs06qxKyyt4t3wkWJ78Zadd03ld3sr5LbqTMDA==",
-  "notes": "Срочный фикс: универсальная сборка для Apple Silicon и Intel Mac. Старые базы без истории пополнений открываются корректно."
+  "version": "2.2.5",
+  "build": 2205,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.5_update.zip",
+  "sha256": "ef28b928b3d0ac4e79c8c83ee54bd5a28f74821db0fc6ffc29d5f024cc403d03",
+  "signature": "QNzulCNm4f3wSHJdSOziXM/zsHXcnTRp1eBwGZivurTiWLbgQPat/c18pAuKSq70+EfTZ2rFobPIPWkpmtW+Cw==",
+  "notes": "Настройки ссылки: добавлено своё значение для sub5. По умолчанию остаётся URI, sub1/sub2/sub5 теперь меняются в настройках."
 }
