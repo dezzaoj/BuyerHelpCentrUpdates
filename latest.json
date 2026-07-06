@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5",
-  "build": 2205,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.5_update.zip",
-  "sha256": "ef28b928b3d0ac4e79c8c83ee54bd5a28f74821db0fc6ffc29d5f024cc403d03",
-  "signature": "QNzulCNm4f3wSHJdSOziXM/zsHXcnTRp1eBwGZivurTiWLbgQPat/c18pAuKSq70+EfTZ2rFobPIPWkpmtW+Cw==",
-  "notes": "Настройки ссылки: добавлено своё значение для sub5. По умолчанию остаётся URI, sub1/sub2/sub5 теперь меняются в настройках."
+  "version": "2.2.6",
+  "build": 2206,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.6_update.zip",
+  "sha256": "e2ad49338de5a961461a914caf5170187e98e47041afcd1e7a15cf46cbd4ce66",
+  "signature": "TBbqLx2nOv2ugMdvbYsCSQ2qKUWzVp/j7iEA8Q8QQ8g4E6Q0BkchSsLYYaiM1d/jabKFRYVHKB6GKrG6S65tCQ==",
+  "notes": "Настройки ссылки: sub5 теперь пустой по умолчанию и обязателен для создания ссылки. Инструкция обновлена."
 }
