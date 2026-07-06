@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3",
-  "build": 2203,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.3_update.zip",
-  "sha256": "70112fe617a39e815cc84623e197735f62be7d68283d3aff1866c6194ea876f7",
-  "signature": "TuuE9GdsAN3nDTsSX1gqB6awgpJpv/H0eU2Q/+UhpDW7i/ckkSEdHkw5dQhKaJgCHX7XL/vC3jtpoHJ1VkYECA==",
-  "notes": "Срочный фикс: старые базы без истории пополнений снова открываются корректно. Плюс пополнения кабинетов, использованные кабинеты и исправленный формат ссылок."
+  "version": "2.2.4",
+  "build": 2204,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.4_update.zip",
+  "sha256": "141f949e5469243102d04a63beba73ba29376c8eed51bbe9b5590744078361ac",
+  "signature": "wYNBb4CgYV5ZlYS5o6wL3gWiOZa4OqoH2w8kHOZRayP2w6qnFs06qxKyyt4t3wkWJ78Zadd03ld3sr5LbqTMDA==",
+  "notes": "Срочный фикс: универсальная сборка для Apple Silicon и Intel Mac. Старые базы без истории пополнений открываются корректно."
 }
