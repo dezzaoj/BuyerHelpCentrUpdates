@@ -1,8 +1,8 @@
 {
-  "version": "2.2.7",
-  "build": 2207,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.7_update.zip",
-  "sha256": "01e7f96c55c78986dccf6fabdc625b7d05097abfbea31f9af3ebd543ab158b1a",
-  "signature": "Sm8VYIFq3YI2o0o1V50qSuhrOp0514iU6NgLXIJNyEGd8dCsIJEMaSHbiYn5/GvorJ63bPhBjlVegdimJKP3CQ==",
-  "notes": "Добавлена проверка доменов с HTTP-статусом и Brand Name, ручной выбор GEO при сборке ссылки, обязательный sub5, пополнения кабинетов и обновленная инструкция."
+  "version": "2.2.8",
+  "build": 2208,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.8_update.zip",
+  "sha256": "cd099b621dfc9f8469cd7b3170f893482b10ac84c1364f7c40108b9d1f681dd3",
+  "signature": "eVUNX3ecMfARzrQPVGMH0kdAg33eF7bI6UpMiy6yJUVN4hFCqMXpcCsVfKV0+Tu+RQ/Bgz0IwkrML8sAQLurBA==",
+  "notes": "Добавлены напоминания о проверке доменов с тумблером в настройках, компактный минибар доменов, ручная проверка выбранного домена и обновленная инструкция."
 }
