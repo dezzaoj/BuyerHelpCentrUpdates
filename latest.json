@@ -1,8 +1,8 @@
 {
-  "version": "2.2.6",
-  "build": 2206,
-  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.6_update.zip",
-  "sha256": "e2ad49338de5a961461a914caf5170187e98e47041afcd1e7a15cf46cbd4ce66",
-  "signature": "TBbqLx2nOv2ugMdvbYsCSQ2qKUWzVp/j7iEA8Q8QQ8g4E6Q0BkchSsLYYaiM1d/jabKFRYVHKB6GKrG6S65tCQ==",
-  "notes": "Настройки ссылки: sub5 теперь пустой по умолчанию и обязателен для создания ссылки. Инструкция обновлена."
+  "version": "2.2.7",
+  "build": 2207,
+  "url": "https://raw.githubusercontent.com/dezzaoj/BuyerHelpCentrUpdates/main/Buyer_Help_Centr_Clean_2.2.7_update.zip",
+  "sha256": "01e7f96c55c78986dccf6fabdc625b7d05097abfbea31f9af3ebd543ab158b1a",
+  "signature": "Sm8VYIFq3YI2o0o1V50qSuhrOp0514iU6NgLXIJNyEGd8dCsIJEMaSHbiYn5/GvorJ63bPhBjlVegdimJKP3CQ==",
+  "notes": "Добавлена проверка доменов с HTTP-статусом и Brand Name, ручной выбор GEO при сборке ссылки, обязательный sub5, пополнения кабинетов и обновленная инструкция."
 }
